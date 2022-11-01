@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T09:01:58.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ga-oAjzz5SMWJYk2Lblm" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T09:03:31.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lP5fEABNUzRQbcI2y1Z4" version="20.5.1" type="github">
   <diagram id="JbvjpjDxwqa3XQ7OUGH0" name="第 1 页">
-    <mxGraphModel dx="878" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="1705" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -910,6 +910,9 @@
         </mxCell>
         <mxCell id="JXdEMuc-65xn1tnEhglr-431" value="$$n_m$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="475" y="585" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JXdEMuc-65xn1tnEhglr-432" value="$$Quadrupler~Q_e$$&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;fillColor=none;gradientColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="575" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
